@@ -1,0 +1,15 @@
+Python and SQL Case Study: Building a Simple Data Analysis Pipeline
+
+Setting Up the Database: Create a SQLite database and populate it with sample data.
+Connecting to the Database: Use Python's sqlite3 module to connect to the database. 
+Querying the Database: Execute SQL queries from Python to fetch data.
+Analyzing the Data: Use pandas for data analysis.
+Visualizing the Data: Use matplotlib to visualize the data.
+
+Database Setup Script (setup_database.py)
+Database Connection and Query Module (database.py)
+Data Analysis Script (data_analysis.py)
+Data Visualization Script (data_visualization.py)
+Configuration File (config.py)
+
+run.sh
